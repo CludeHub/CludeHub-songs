@@ -405,11 +405,11 @@ local Tab = Window:MakeTab({
 	PremiumOnly = false
 })
 Tab:AddButton({
-	Name = "Skibidi",
+	Name = "Thang ina lugi ako don",
 	Callback = function()
 s = Instance.new("Sound")
  s.Name = "Music"
- s.SoundId = "http://www.roblox.com/asset/?id=702893409" --Put the id into there.
+ s.SoundId = "http://www.roblox.com/asset/?id=6186570492" --Put the id into there.
  s.Looped = false
  s.Pitch = 1 --You can edit these settings.
  s.Volume = 5 --You can edit these settings.
