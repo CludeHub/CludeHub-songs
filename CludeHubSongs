@@ -66,7 +66,7 @@ s = Instance.new("Sound")
  s.SoundId = "http://www.roblox.com/asset/?id=13530439660" --Put the id into there.
  s.Looped = false
  s.Pitch = 1 --You can edit these settings.
- s.Volume = 5 --You can edit these settings.
+ s.Volume = 100 --You can edit these settings.
  s.archivable = false
  
   s.Parent = game.Workspace
@@ -90,7 +90,7 @@ s = Instance.new("Sound")
  s.SoundId = "http://www.roblox.com/asset/?id=14145620056" --Put the id into there.
  s.Looped = false
  s.Pitch = 1 --You can edit these settings.
- s.Volume = 5 --You can edit these settings.
+ s.Volume = 100 --You can edit these settings.
  s.archivable = false
  
   s.Parent = game.Workspace
@@ -114,7 +114,7 @@ s = Instance.new("Sound")
  s.SoundId = "http://www.roblox.com/asset/?id=11010019801" --Put the id into there.
  s.Looped = false
  s.Pitch = 1 --You can edit these settings.
- s.Volume = 5 --You can edit these settings.
+ s.Volume = 100 --You can edit these settings.
  s.archivable = false
  
   s.Parent = game.Workspace
@@ -138,7 +138,7 @@ Tab:AddButton({
  s.SoundId = "http://www.roblox.com/asset/?id=8147012902" --Put the id into there.
  s.Looped = false
  s.Pitch = 1 --You can edit these settings.
- s.Volume = 5 --You can edit these settings.
+ s.Volume = 100 --You can edit these settings.
  s.archivable = false
  
   s.Parent = game.Workspace
@@ -162,7 +162,7 @@ s = Instance.new("Sound")
  s.SoundId = "http://www.roblox.com/asset/?id=14145626111" --Put the id into there.
  s.Looped = false
  s.Pitch = 1 --You can edit these settings.
- s.Volume = 5 --You can edit these settings.
+ s.Volume = 100 --You can edit these settings.
  s.archivable = false
  
   s.Parent = game.Workspace
@@ -186,7 +186,7 @@ s = Instance.new("Sound")
  s.SoundId = "http://www.roblox.com/asset/?id=14145627857" --Put the id into there.
  s.Looped = false
  s.Pitch = 1 --You can edit these settings.
- s.Volume = 5 --You can edit these settings.
+ s.Volume = 100 --You can edit these settings.
  s.archivable = false
  
   s.Parent = game.Workspace
@@ -210,7 +210,7 @@ s = Instance.new("Sound")
  s.SoundId = "http://www.roblox.com/asset/?id=14145618642" --Put the id into there.
  s.Looped = false
  s.Pitch = 1 --You can edit these settings.
- s.Volume = 5 --You can edit these settings.
+ s.Volume = 100 --You can edit these settings.
  s.archivable = false
  
   s.Parent = game.Workspace
@@ -234,7 +234,7 @@ s = Instance.new("Sound")
  s.SoundId = "http://www.roblox.com/asset/?id=14145625078" --Put the id into there.
  s.Looped = false
  s.Pitch = 1 --You can edit these settings.
- s.Volume = 5 --You can edit these settings.
+ s.Volume = 100 --You can edit these settings.
  s.archivable = false
  
   s.Parent = game.Workspace
@@ -359,7 +359,7 @@ s = Instance.new("Sound")
  s.SoundId = "http://www.roblox.com/asset/?id=6969006426" --Put the id into there.
  s.Looped = false
  s.Pitch = 1 --You can edit these settings.
- s.Volume = 5 --You can edit these settings.
+ s.Volume = 100 --You can edit these settings.
  s.archivable = false
  
   s.Parent = game.Workspace
@@ -436,7 +436,7 @@ s = Instance.new("Sound")
  s.SoundId = "http://www.roblox.com/asset/?id=752956683" --Put the id into there.
  s.Looped = false
  s.Pitch = 1 --You can edit these settings.
- s.Volume = 5 --You can edit these settings.
+ s.Volume = 100 --You can edit these settings.
  s.archivable = false
  
   s.Parent = game.Workspace
